@@ -18,11 +18,11 @@
 
 連接線選擇:
 
-1.association:最基本的箭頭連接線，指向目標位置
+1.association : 最基本的箭頭連接線，指向目標位置
 
-2.generalization:三角形箭頭連接線，同樣指向目標位置
+2.generalization : 三角形箭頭連接線，同樣指向目標位置
 
-3.composition:菱形箭頭，同樣指向目標位置
+3.composition : 菱形箭頭，同樣指向目標位置
 
 ## 操作說明
 
